@@ -66,7 +66,7 @@ li {
     border-radius: 3px;
 }
 
-/* 과제 필수 조건: 완료 상태 시각적 요소 추가 */
+/* 완료 상태 시각적 요소 추가 */
 .completed span {
     text-decoration: line-through; /* 중간 줄 긋기 */
     color: #aaa; /* 회색으로 변경 */
